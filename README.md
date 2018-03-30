@@ -15,3 +15,10 @@
 ***
 Задание №1
 ![](https://github.com/avvylegzhanina/hw6/blob/master/Question.png)
+***
+Задание №2
+![](https://github.com/avvylegzhanina/hw6/blob/master/%D0%93%D0%BB%D0%B0%D0%B3%D0%BE%D0%BB%D1%8B.png)
+По данным этой небольшой таблицы можно привести примеры употребления глаголов с разными дополнениями:
+* Оба глаголы (*make/do*) вместе могут потребляться с дополнением *lot*.(К примеру:*You'll	make	a lot of new friends./British Gas has	done	a lot of damage in our forest*)
+* Отдельно глагол **make** употребляется с такими дополнениями как:*mistake, contribution, effort, progress*. С ними нет никаких примеров употребления глагола **do**.
+* Отдельно глагол **do** употребляется с такими дополнениями как: *harm, mean*. С ними нет никаких примеров употребления глагола **make**.
